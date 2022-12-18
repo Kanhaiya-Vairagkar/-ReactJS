@@ -4,8 +4,9 @@
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
-    border: 6px solid rgb(177, 52, 52);
+    border: 6px solid rgb(100, 115, 255);
     border-radius: 15px;
     text-transform: uppercase;
+    text-align: center;
     
 }
