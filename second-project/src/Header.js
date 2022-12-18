@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 
-const Header=(props)=>{
+const funactionName=(props)=>{
     return(
         <>
         <h1 className="heade">Hii, my name is {props.name}</h1>
@@ -9,4 +9,4 @@ const Header=(props)=>{
         </>
     )
 }
-export default Header;
+export default funactionName;
