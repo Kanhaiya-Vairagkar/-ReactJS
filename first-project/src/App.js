@@ -4,7 +4,7 @@ import Header from './Header';
 function App() {
   return (
     <div className="App">
-     <Header name="Kanhiya" age="22"/>
+     <Header name="Kanhiya" age="28"/>
     </div>
   );
 }
