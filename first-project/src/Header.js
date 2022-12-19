@@ -3,7 +3,7 @@ import "./Header.css";
 
 // const Header=(props)=>{
 
-export const Header=(props)=>{
+ const Header=(props)=>{
     return(
         <>
         <h1 className="header">Hii, my name is {props.name} How are you</h1>
