@@ -9,7 +9,6 @@ ReactDom.render(
 
         <App />
         <Header />
-
         <body> <h2>Good Afternoon Kanhaiya</h2>
             <h1>Kanhaiya</h1>
         </body>
