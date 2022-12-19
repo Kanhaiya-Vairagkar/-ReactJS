@@ -1,9 +1,14 @@
+h1{
+    color: rgb(55, 255, 0);
+}
+
 h2 {
     background-color: red;
     color: rgb(0, 0, 0);
     font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: normal;
+    text-align: center;
 }
 
 p {
@@ -21,3 +26,11 @@ u {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;  
 } */
+.a{
+    text-align: center;
+    padding-left: 650px;
+    text-decoration: underline;
+    text-shadow: wheat;
+    color: blue;
+    font-size: xx-large;
+}
